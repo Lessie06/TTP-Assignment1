@@ -1,5 +1,16 @@
 body{
     margin:0px;
+    background-color: #7FB3D5;
+}
+
+img{
+    width: 800px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+p{
+
 }
 
 .topnav {
