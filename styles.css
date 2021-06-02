@@ -5,14 +5,14 @@ body{
 
 img{
     width: 800px;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-left: 350px;
 }
 
-.hometxt p{
-    padding-left: 20px;
+  p{
+    padding-left: 10px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 60px;
     font-family: 'Poppins', sans-serif;
 }
 
