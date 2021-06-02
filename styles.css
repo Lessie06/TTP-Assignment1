@@ -4,8 +4,26 @@ body{
 }
 
 small{
-    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 650px;
+}
+
+.contact-form{
+    text-align: center;
+}
+
+.our-members{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.about-pg-polluted-beach{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.bold-text-about{
+    padding-left: 580px;
 }
 
 img{
@@ -23,15 +41,9 @@ h2{
 }
 ul{
     text-align: center;
-    padding-right: 100px;
+    padding-right: 90px;
 }
-/* ol{
-    text-align: center;
-} */
 
-b{
-    text-align: center;
-}
 
   p{
     padding-left: 10px;
