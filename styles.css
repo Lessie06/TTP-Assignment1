@@ -6,14 +6,23 @@ body{
 img{
     width: 800px;
     padding-top: 50px;
-    padding-left: 30px;
+    padding-left: 350px;
 }
 
 p{
+    padding-left: 20px;
     text-align: center;
-    padding-top: 100px;
-    font-family: 'Noto Serif', serif;
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
 }
+
+hr{
+    border: dotted #EAF6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  
+  }
 
 .topnav {
     background-color: #333;
