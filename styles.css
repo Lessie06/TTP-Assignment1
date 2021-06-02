@@ -3,6 +3,11 @@ body{
     background-color: #7FB3D5;
 }
 
+small{
+    padding-top: 50px;
+    padding-left: 650px;
+}
+
 img{
     width: 800px;
     padding-top: 30px;
@@ -18,10 +23,11 @@ h2{
 }
 ul{
     text-align: center;
+    padding-right: 100px;
 }
-li{
+/* ol{
     text-align: center;
-}
+} */
 
 b{
     text-align: center;
