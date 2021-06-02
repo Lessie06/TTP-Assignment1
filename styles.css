@@ -42,3 +42,55 @@ p{
     background-color:#AED6F1 ;
     color: white;
   }
+
+/* about us page... */
+.about-pg-heading {
+  text-align: center;
+  font-family: Verdana, Courier, monospace;
+  font-size: 350%;
+
+}
+
+.our-members {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+}
+
+.decrip-of-us {
+  text-align: center;
+  font-family: Verdana, Courier, monospace;
+}
+
+.about-h2 {
+  text-align: center;
+  font-family: Verdana, Courier, monospace;
+  font-size: 155%;
+}
+
+.about-list {
+  text-align: center;
+  font-family: Verdana, Courier, monospace;
+  display: table;
+  margin: 0 auto;
+}
+
+.bold-text-about {
+  text-align: center;
+  font-family: Verdana, Courier, monospace;
+}
+
+.about-description {
+  text-align: center; /* FIX ME: Doesnt center text! */
+  font-family: Verdana, Courier, monospace;
+}
+
+.about-pg-polluted-beach {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+}
